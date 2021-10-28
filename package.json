@@ -49,5 +49,19 @@
     "*.{json,md}": [
       "prettier --write"
     ]
+  },
+  "dependencies": {
+    "@backstage/plugin-api-docs": "^0.6.12",
+    "@backstage/plugin-auth-backend": "^0.4.6",
+    "@backstage/plugin-catalog": "^0.7.2",
+    "@backstage/plugin-catalog-import": "^0.7.3",
+    "@backstage/plugin-github-actions": "^0.4.22",
+    "@backstage/plugin-org": "^0.3.27",
+    "@backstage/plugin-scaffolder": "^0.11.9",
+    "@backstage/plugin-search": "^0.4.16",
+    "@backstage/plugin-tech-radar": "^0.4.11",
+    "@backstage/plugin-techdocs": "^0.12.4",
+    "@backstage/plugin-user-settings": "^0.3.10",
+    "passport-provider": "^1.0.3"
   }
 }

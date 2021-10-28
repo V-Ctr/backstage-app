@@ -1,9 +1,9 @@
 app:
-  title: Scaffolded Backstage App
+  title: InGaia Backstage App
   baseUrl: http://localhost:3000
 
 organization:
-  name: InGaia
+  name: InGaia Backstage
 
 backend:
   baseUrl: http://localhost:7000/api/auth/github
